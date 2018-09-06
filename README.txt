@@ -1,5 +1,3 @@
-# Keras-Docker-Example
-
 [KERAS] ASSIGNMENT
 Completed by John Cosentino john.s.cosentino@gmail.com
 Offered by [redacted]
